@@ -65,7 +65,7 @@
 ## 🤝 Soporte
 
 - 📧 **Email:** soporte@yumi-bot.com  
-- 💬 **Discord:** [Servidor de soporte oficial](#)  
+- 💬 **Discord:** https://discord.gg/invite/eSqrEcByrb  
 - 🐛 **GitHub Issues:** Reportes de bugs y sugerencias  
 
 ---

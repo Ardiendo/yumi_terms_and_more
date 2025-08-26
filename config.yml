@@ -1,0 +1,33 @@
+# 🌸 Yumi Bot — Configuración por defecto
+
+bot:
+  name: "Yumi"
+  version: "1.4.1"
+  status: "online"
+  activity: "✨ Moderando servidores con estilo ✨"
+  type: "PLAYING" # Opciones: PLAYING, LISTENING, WATCHING, COMPETING
+
+moderation:
+  autoroles:
+    enabled: true
+    roles: [] # IDs de roles a asignar automáticamente
+  anti_raid:
+    enabled: true
+    log_channel: null
+  logs:
+    enabled: true
+    channel: null
+
+games:
+  enabled: true
+  trivia:
+    questions_per_session: 10
+    allow_repeat: false
+
+developer:
+  owner_id: "819080793447333918"
+  support_server: "https://discord.gg/vZyQ3u5re2"
+
+database:
+  provider: "mongodb"
+  uri: "mongodb://localhost:27017/yumi"
